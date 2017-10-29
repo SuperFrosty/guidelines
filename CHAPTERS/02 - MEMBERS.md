@@ -12,7 +12,7 @@ New members will have to comply with the following in order to be a member of Cl
 - **New members with projects for submission**
    - Project must be actively maintained.
    - Project must have a automated code review GPA of at least 3.5.
-   - Project must follow Codes tyling standards set for their language.
+   - Project must follow Code styling standards set for their language.
    - Project must not have a previous legal issue (DMCA takedowns on shared resources, lawsuit on a specfic counted LoCs, illegal clone of another project, etc.).
 
 - **New members with no Projects**
